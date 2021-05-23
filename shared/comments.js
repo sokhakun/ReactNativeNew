@@ -3,7 +3,7 @@ export const COMMENTS =
     {
         id: 0,
         campsiteId: 0,
-        rating: 5, 
+        rating: 1, 
         text: "What a magnificent view!",
         author: "Tinus Lorvaldes",
         date: "2018-10-25T16:30Z"
@@ -11,7 +11,7 @@ export const COMMENTS =
     {
         id: 1,
         campsiteId: 0,
-        rating: 4, 
+        rating: 3, 
         text: "The campground was beautiful, but the bugs could bite sometimes.",
         author: "Brennen Ech",
         date: "2017-06-17T03:33Z"
@@ -19,7 +19,7 @@ export const COMMENTS =
     {
         id: 2,
         campsiteId: 0,
-        rating: 5, 
+        rating: 2, 
         text: "I caught a world-record-breaking trout here on my last visit.",
         author: "McKenzie Sebastian",
         date: "2019-02-18T18:12Z"
@@ -27,7 +27,7 @@ export const COMMENTS =
     {
         id: 3,
         campsiteId: 0,
-        rating: 5, 
+        rating: 3, 
         text: "A wonderful place to reconnect with nature.",
         author: "Jordan Runn",
         date: "2019-08-04T20:11Z"
@@ -35,7 +35,7 @@ export const COMMENTS =
     {
         id: 4,
         campsiteId: 0,
-        rating: 4, 
+        rating: 1, 
         text: "The stars at night were a revelation!",
         author: "Ann Dabramov",
         date: "2018-07-23T19:44Z"
