@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Text, View, ScrollView, StyleSheet, Picker, Switch, Button, Alert } from 'react-native';
+import { Text, View, ScrollView, StyleSheet, Picker, Switch, Button, Alert} from 'react-native';
 import DateTimePicker from '@react-native-community/datetimepicker';
 import * as Animatable from 'react-native-animatable';
 
@@ -36,7 +36,6 @@ class Reservation extends Component {
             [
                 {
                     text: 'Cancel',
-                    style: 'cancel',
                     onPress: () => this.resetForm()
                 },
                 {
